@@ -1,0 +1,8 @@
+{
+    "name": "monorepo-2",
+    "version": "1.0.0",
+    "workspaces": [
+        "app",
+        "math-cesar"
+    ]
+}
